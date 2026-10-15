@@ -1,4 +1,8 @@
 /*
+ * Local compatibility update: adapted for p5.js 2.x lifecycle hooks.
+ * Based on upstream p5.createLoop commit f2e36f3 (2025-04-10).
+ */
+/*
  * ATTENTION: The "eval" devtool has been used (maybe by default in mode: "development").
  * This devtool is neither made for production nor for readable output files.
  * It uses "eval()" calls to create a separate source file in the browser devtools.
